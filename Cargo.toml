@@ -1,0 +1,7 @@
+[package]
+name = "borrow"
+version = "0.1.0"
+authors = ["Adam McCullough <merlinfmct87@gmail.com>"]
+
+[dependencies]
+rayon = "1.0"
